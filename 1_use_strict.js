@@ -34,6 +34,8 @@ console.log(y);
 
 console.log(a);
 
+
 // its not access here beacuse of "let" and "const" has block scope it available for the that block where they declared and assigned.
 // console.log(b);
 // console.log(c);
+
