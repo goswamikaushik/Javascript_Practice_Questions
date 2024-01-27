@@ -6,3 +6,6 @@
 // 2 - Improves Performance
 // 3 - Discourages Dangerous Features
 // etc ...
+
+console.log("helllo kasuhii"); 
+console.log("hello");
