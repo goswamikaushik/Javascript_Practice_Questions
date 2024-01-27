@@ -9,3 +9,31 @@
 
 console.log("helllo kasuhii"); 
 console.log("hello");
+
+console.log(1
+    + 3
+    +4 )
+
+let x = "message";
+console.log(x);
+x = 5;
+console.log(x);
+
+const y = "hello";
+console.log(y);
+// this is not valid with the const y = 4;
+console.log(y);
+
+{
+    var a = 0;
+    let b = 1;
+    const c = 8;
+    console.log(b);
+    console.log(c)
+}
+
+console.log(a);
+
+// its not access here beacuse of "let" and "const" has block scope it available for the that block where they declared and assigned.
+// console.log(b);
+// console.log(c);
