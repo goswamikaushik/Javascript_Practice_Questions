@@ -16,7 +16,6 @@ console.log(arr1.forEach((item,index1) => {
         frequentItem = arr1[index1];
 
     }
-
 }));
 console.log(`${frequentItem} ( ${maxCount} times )`);
 
