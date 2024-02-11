@@ -13,7 +13,7 @@ const abc = {
             age: 16
         },
         {
-            name: "mitali",
+            name: "minu",
             age: 15
         }
     ]
