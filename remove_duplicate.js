@@ -13,6 +13,8 @@ const removeDuplicates = (arr) => {
 };
 console.log(removeDuplicates(arr));
 
+
+//also we can use this method
 let n = [...new Set(arr)]
 console.log(n);
 
